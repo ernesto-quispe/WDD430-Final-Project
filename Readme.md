@@ -61,7 +61,7 @@ Handcrafted Marketplace is a web application designed to help artisans showcase 
 
 ### Deployment / Cloud Platform
 - Vercel
-
+ https://wdd-430-final-project-lake.vercel.app/
 ## Contributors
 - Ernesto Quispe
 
@@ -74,4 +74,4 @@ Handcrafted Marketplace is a web application designed to help artisans showcase 
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/handcrafted-marketplace.git
+   git clone https://github.com/ernesto-quispe/WDD430-Final-Project
